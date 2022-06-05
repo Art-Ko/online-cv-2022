@@ -24,7 +24,7 @@ sidebar:
 #    stack-overflow:        # Number/Username, e.g. 123456/alandoe
 #    codewars:
 #    goodreads:             # Number-Username, e.g. 123456-alandoe
-   pdf: "html://tyoxa.online/Koshlatyi Artem - CV ~ SysAdmin ~ DevOps ~ IT_Engineer.[EN].pdf"
+    pdf: http://tyoxa.online/Koshlatyi_Artem__CV__ENG.pdf
 
     languages:
       - idiom: Ukrainian
