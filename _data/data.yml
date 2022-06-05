@@ -1,0 +1,173 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Artem Koshlatyi
+    tagline: Senior System Administrator / IT Engineer / DevOps
+    avatar: art_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+##    email: tyoxa.online@google.com
+#    phone: 012 345 6789
+    website: tyoxa.online #do not add http://
+#    linkedin: Best-SysAdmin-of-the-World
+#    github: sharu725
+    telegram: tyoxa         # add your nickname without '@' sign
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow:        # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads:             # Number-Username, e.g. 123456-alandoe
+   pdf: "html://tyoxa.online/Koshlatyi Artem - CV ~ SysAdmin ~ DevOps ~ IT_Engineer.[EN].pdf"
+
+    languages:
+      - idiom: Ukrainian
+        level: Native
+
+      - idiom: Czech
+        level: Beginner
+
+      - idiom: English
+        level: Intermediate, good writing and reading skills
+
+    interests:
+      - item: Cycling
+        link:
+
+      - item: Gastronomic tourism
+        link:
+
+      - item: Cooking delicious food
+        link:
+
+      - item: Watch movies with friends
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      16 years of experience in Systems Administration, DevOps and Network engineering fields.
+
+      Linux Systems Engineer with:
+        - knowledge at UNIX based OS (CentOS, Ubuntu, Mint, Debian & FreeBSD)
+        - experience at Virtualization (VirtualBox, VMware, ESXi, Hyper-V)
+        - passion to CM (Ansible, Git, Bitbucket)
+        - slight experince in cloud (AWS EC2, S3, CloudFront, Route53, etc.)
+        - slight experince to work on CI/CD setup (Jenkins)
+
+      Cloud:
+        - AWS, Amazon EC2 Container Service, Amazon Simple Storage Service (S3);
+        - Amazon Web Services (AWS) and Heroku;
+        - Technologies: Datacenters, Internet,Networking, Security, Structured storage;
+        - Virtualization Tools: Docker, KVM, Oracle VM, VMware ESXi, VMware vSphere, Windows Server Virtualization with Hyper-V;
+
+      DataBases:
+        - MSSQL Server, MySQL, MariaDB, MongoDB, Oracle, SQLLite, Firebird, Redis, DB2, PostgreSQL;
+        - replication, backup and restore DB.
+
+      Programing:
+        - scripting Languages: Bash, Python, PowerShell;
+        - now began studying RoR (Ruby on Rails) and GOLang (in future plans);
+        - studied HTML/XHTML/CSS and little PHP.
+
+      Other Technology's:
+        - VPN: OpenVPN, pptp, ipsec, wireguard end etc. ;
+        - Storage: CIFS, Ext2/3/4, FAT, FAT32, NFS, NTFS;
+        - Network Protocols: DNS, DHCP, etc.;
+        - Interfaces: Ethernet, FibreChannel, WiFi, etc.;
+        - Microsoft Technologies: Operating Systems: Windows Server 2008 (R2)/2012 (R2)/2016;
+        - Software Configuration Management: Version Control Systems: Git, GitHub, TFS.
+
+education:
+    - degree: National Technical University "Kharkiv Polytechnic Institute"
+      university: Kharkiv, Ukraine
+      time: 2013
+      details:
+    - degree: STEP Computer Academy
+      university: Odessa, Ukraine
+      time: 2004
+      details:
+
+experiences:
+    - role: System Administrator (with DevOps & Network Engineer tasks)
+      time: 2018 - 2021
+      company: Product company
+      details: |
+        - managed and created new hosts for the existing VMWare cluster in data centers in Europe, USA, Australia
+        - implement, manage and support backup system VeeamBackup
+        - manage web servers with web applications based on Apache, Nginx, IIS, etc.
+        - implement and support VPN tunnels (IPsec) between gateways in different geo locations
+        - implement and support VPN tunnels (OpenVPN) for connect customers to local resources
+        -  monitoring OS systems and active hardware with Zabbix
+    - role: Technical Support Engineer L2
+      time: 2015 - 2017
+      company: Software company
+      details: |
+        A few months later I worked in the development department.
+         - supported and managed Web servers with applications and Databases. Solved complex technical problems encountered by customers
+         - Implemented a system for monitoring IT infrastructure of the company and customer systems
+         - develop automation scripts in PowerShell (for Windows Servers)
+         - develop installation packages based on the Windows Installer Xml (WiX) toolset for the company's main web applications
+    - role: Technical Engineer / System Administrator
+      time: 2015
+      company: Industrial company
+      details: |
+          - development of the project and implementation of a video surveillance system in the presence of data storage in the cloud
+          - installation and maintenance of a unified accesscontrol system (ACS) in the branches and the main office of the company
+          - configure and maintenance of servers and PCs in the company
+    - role: IT Engineer
+      time: 2013 - 2015
+      company: in several companies
+      details: |
+          - Supported SOHO network equipment: MikroTik, Linksys, D-Link, TP-Link; Virtual network (vlan) Cisco based
+          - Managed and supported Windows Server 2008/2012 environment (including AD, DNS, DHCP, etc.)
+    - role: Technical Specialist (System Administrator)
+      time: 2004 - 2013
+      company: Information and Computing Center
+      details: |
+          Was engaged in worked on the maintenance of computing equipment and software.
+          - Managed Windows Server 2003/2008, including mail servers (IBM Lotus Domino) and application server
+          - Windows-based network support of over 100 PCs
+          - introduction (from scratch) of the corporateautomated accounting system at the enterprises of the region, as well as its integration with the banking system;
+
+publications:
+    title: My achievements
+    intro: Participated in various projects, here are some
+    papers:
+      - title: implementation (from scratch) of a corporate automated accounting system in enterprises
+      - title: implementation, support and subsequent maintenance of an automated personnel accounting system in enterprises.
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: UNIX based OS
+        level: 84%
+
+      - name: DataBases
+        level: 68%
+
+      - name: Virtualization
+        level: 79%
+
+      - name: Networking
+        level: 85%
+
+      - name: Microsoft Technologies
+        level: 78%
+
+      - name: Cloud Services
+        level: 71%
+
+      - name: Programing &amp; Scripting
+        level: 60%
+
+##footer: >
+##    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
