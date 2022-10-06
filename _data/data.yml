@@ -88,11 +88,7 @@ education:
     - degree: National Technical University "Kharkiv Polytechnic Institute"
       university: Kharkiv, Ukraine
       time: 2013
-      details:
-    - degree: STEP Computer Academy
-      university: Odessa, Ukraine
-      time: 2004
-      details:
+      details: Engineer, programmer, system analyst
 
 experiences:
     - role: System Administrator (with DevOps & Network Engineer tasks)
