@@ -88,7 +88,8 @@ education:
     - degree: National Technical University "Kharkiv Polytechnic Institute"
       university: Kharkiv, Ukraine
       time: 2013
-      details: Engineer, programmer, system analyst
+      details: |
+        Engineer, programmer, system analyst
 
 experiences:
     - role: System Administrator (with DevOps & Network Engineer tasks)
