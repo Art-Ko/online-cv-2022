@@ -11,11 +11,11 @@ sidebar:
     tagline: Senior System Administrator / IT Engineer / DevOps
     avatar: art_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
+# Sidebar links
 ##    email: tyoxa.online@gmail.com
 #    phone: +420 7711-xxx-xx
     website: tyoxa.online                                                                   #do not add http://
-   ## linkedin: Best-SysAdmin-of-the-World
+    linkedin: Best-SysAdmin-of-the-World
 #    github: sharu725
     telegram: tyoxa                                                                               # add your nickname without '@' sign
 #    gitlab:
