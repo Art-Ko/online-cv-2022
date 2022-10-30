@@ -6,3 +6,8 @@
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+
+body {
+	background: linear-gradient(180deg, #0057b8 0%, #ffd700 100%);
+	background-attachment: fixed;
+}
