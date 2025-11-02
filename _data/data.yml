@@ -14,7 +14,7 @@ sidebar:
 # Sidebar links
 ##    email: tyoxa.online@gmail.com
 #    phone: +420 7711-xxx-xx
-    website: tyoxa.online                                                                   #do not add http://
+    website: tyoxa.work                                                                   #do not add http://
 ##    linkedin: Best-SysAdmin-of-the-World
 #    github: sharu725
 ##    telegram: tyoxa                                                                               # add your nickname without '@' sign
@@ -24,7 +24,7 @@ sidebar:
 #    stack-overflow:      20367132/artem-k                                   # Number/Username, e.g. 123456/alandoe
 #    codewars:  Art-Ko
 #    goodreads:                                                                                     # Number-Username, e.g. 123456-alandoe
-    pdf: http://tyoxa.online/Koshlatyi_Artem__CV__ENG.pdf
+    pdf: http://tyoxa.work/Koshlatyi_Artem__CV__ENG.pdf
     all_contacts:   art_contacts.png
   
     languages:
